@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olsopq
+- 👋 Hi, I’m @olsop1
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python3
 
